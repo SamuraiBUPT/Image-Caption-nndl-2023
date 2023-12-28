@@ -5,3 +5,5 @@ vicuna-7b-v1.1/
 vicuna-7b-v1.5/
 
 model_ckpt/attn_rl/
+model_ckpt/attn/
+model_ckpt/cnngru/
